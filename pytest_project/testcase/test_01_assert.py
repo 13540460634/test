@@ -29,5 +29,5 @@ class Test():
 
     def test_03(self):
         a = 3
-        b = 3
-        assert a == b
+        c = 3
+        assert a == c
