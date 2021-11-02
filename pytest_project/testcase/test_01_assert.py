@@ -27,3 +27,7 @@ class Test():
         assert a == b
 
 
+    def test_03(self):
+        a = 3
+        b = 3
+        assert a == b
